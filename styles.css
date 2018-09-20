@@ -6,12 +6,21 @@
 
 body {
   font-family: 'Open Sans Condensed', sans-serif;
-  /* margin: 0 auto; */
+  font-size: 1.2em;
+}
+
+hr {
+  background-color: #97ce8a;
+  border: none;
+  height: 3px;
+  margin-bottom: 5px;
+  width: 100%;
 }
 
 h2 {
   color: #97ce8a;
   margin-bottom: 5px;
+  text-transform: uppercase;
 }
 
 .main-info {
