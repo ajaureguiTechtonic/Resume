@@ -70,3 +70,8 @@ img + p {
 .education > div {
   margin-bottom: 10px;
 }
+
+.previous-employment {
+  display: flex;
+  justify-content: space-between;
+}
