@@ -24,10 +24,15 @@ h2 {
 }
 
 .main-info {
-  text-align: center;
   background-color: #ebeeea;
-  margin: 0 auto;
+  font-family: 'Amatic SC', cursive;
   padding: 15px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.name {
+  font-size: 2em;
 }
 
 .body-content {
